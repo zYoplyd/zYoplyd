@@ -1,4 +1,4 @@
-### Hola 👋, zYoplyd
+### zYoplyd
 #### Arriba España
 
 XD
