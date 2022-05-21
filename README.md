@@ -1,7 +1,6 @@
 ### Hola 👋, zYoplyd
 #### Arriba España
-![Arriba España](https://f.wetop.cf/webcontent/github/banner/banner_xd.png)
-
+![Arriba España src='https://f.wetop.cf/webcontent/github/banner/banner_xd.png']
 XD
 
 Habilidades:  JAVA / PHP / PYTHON / JVON  🥵🥵🥵 
