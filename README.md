@@ -1,4 +1,4 @@
-### Hola 👋, zYoplyd
+### Hi 👋, zYoplyd
 #### SpainOnTop
 
 XD
